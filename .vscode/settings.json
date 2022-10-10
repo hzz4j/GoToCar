@@ -1,0 +1,15 @@
+{
+
+    "minapp-vscode.wxmlFormatter": "prettyHtml", // 指定格式化工具
+    "minapp-vscode.prettyHtml": { // prettyHtml 默认配置
+    "useTabs": false,
+    "tabWidth": 2,
+    "printWidth": 100,
+    "singleQuote": false,
+    "usePrettier": true,
+    "wrapAttributes": false, // 设置成 true 强制属性换行
+    "sortAttributes": false
+    },
+    "editor.formatOnSave": false,
+    "wxmlConfig.onSaveFormat": true
+}
