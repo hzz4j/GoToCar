@@ -2,6 +2,8 @@
 // 获取应用实例
 const app = getApp();
 
+console.log("========================================");
+console.log(wx);
 
 let data = {
   motto: "Hello 静默",
