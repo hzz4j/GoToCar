@@ -1,0 +1,16 @@
+{
+  "entryPagePath": "pages/index/index",
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "GoToCar",
+    "navigationBarTextStyle":"black"
+  },
+
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
